@@ -58,7 +58,30 @@ The system:
 - **Google Sheets API**
 - **Telegram Bot API**
 
----
 
-## 📂 Project Structure
+3️⃣ Configure credentials
+
+Add Google service account JSON
+
+Share Google Sheet with service account email
+
+Add Telegram Bot Token & Chat ID in config.py
+
+## ▶️ How to Run
+
+### 1️⃣ Create virtual environment
+```bash
+python -m venv venv
+venv\Scripts\activate   # Windows
+pip install -r requirements.txt
+python main.py
+
+📊 My Algo Trading Report
+
+📌 Stock: RELIANCE.BSE
+💰 Result: LOSS of ₹4,218
+🎯 ML Accuracy: 40%
+📉 Performance: Needs Improvement
+
+
 
